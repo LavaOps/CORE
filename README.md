@@ -20,6 +20,14 @@ The authors used CPLEX with an academic license for the solver.
 
 ReFramed can also use Gurobi. There is also an OptLang interface allowing for a larger selection of solvers. 
 
+(3) *KBase* 
 Links to the Static Narratives in KBase are below. 
-
+Table 3 & 6:
+https://kbase.us/n/153671/12/
+Table 3 & 6 Gapfilled:
+https://kbase.us/n/154537/11/
+Table 7:
+https://kbase.us/n/153756/62/
+Table 8:
+https://kbase.us/n/153757/73/
 
