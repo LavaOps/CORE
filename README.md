@@ -1,6 +1,6 @@
 # CORE
 
-In order to use the notebooks to reproduce the results, the repository must be downloaded. The user must also be able to run ipynb file (a python notebook). For example, this can be done is Jupyter Lab or Jupyter notebook as well as Visual Studio Code. 
+In order to use the notebooks to reproduce the results, the repository must be downloaded. The user must also be able to run ipynb files (a python notebook). For example, this can be done is Jupyter Lab or Jupyter notebook as well as Visual Studio Code. 
 
 Dependencies
 
