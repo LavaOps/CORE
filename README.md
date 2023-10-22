@@ -21,8 +21,8 @@ The authors used CPLEX with an academic license for the solver.
 ReFramed can also use Gurobi. There is also an OptLang interface allowing for a larger selection of solvers. 
 
 It is noted that the warnings that occur on loading the models using version 1.2.1 do not appear in the latest version of ReFramed (version 1.4.0). A small example is shown below. 
+![alt text](https://github.com/LavaOps/CORE/warning.png)
 
-![image](https://github.com/LavaOps/CORE/assets/67613741/c1378e77-2cd1-4c9f-9cc1-5fcd69064d2f)
 
 
 (3) *KBase* 
